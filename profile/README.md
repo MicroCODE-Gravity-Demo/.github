@@ -1,4 +1,4 @@
-# Gravity Template - Licensed Reference Copy
+# Gravity Current - Licensed Reference Copy
 
 **⚠️ REFERENCE REPOSITORY ONLY - DO NOT USE FOR PRODUCTION**
 
