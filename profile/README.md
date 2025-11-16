@@ -1,4 +1,4 @@
-# Gravity Current - Licensed Reference Copy
+# Gravity Demo - Licensed Reference Copy
 
 **⚠️ REFERENCE REPOSITORY ONLY - DO NOT USE FOR PRODUCTION**
 
@@ -9,10 +9,10 @@
 
 This is a **reference copy** maintained to:
 
-- Track upstream changes and enhancements from the official Gravity product
-- Review security patches and bug fixes from the Gravity team
-- Evaluate new features before integrating into `MicroCODE App Template`
-- Maintain licensing compliance and update history
+- Interacively review the latest Gravity features and updates
+- Track changes between versions
+- Assist in planning updates for our internal derivative, **MicroCODE App Template**
+- Serve as a backup of the licensed code
 
 ## MicroCODE App Template
 
